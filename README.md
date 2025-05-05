@@ -21,6 +21,13 @@ Du kannst Aufgaben hinzufügen, löschen und die Liste wird automatisch im Brows
 *Beispielhafte Darstellung der Aufgabenliste*
 
 ---
+## 🌐 Live-Demo
+
+Hier kannst du die Anwendung direkt ausprobieren:  
+👉 [AufgabenPlaner Live ansehen](https://dein-github-username.github.io/aufgabenplaner/)
+
+
+---
 
 ## ⚙️ Technologien
 
