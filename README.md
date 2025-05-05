@@ -17,7 +17,7 @@ Du kannst Aufgaben hinzufügen, löschen und die Liste wird automatisch im Brows
 
 ## 🖥️ Vorschau
 
-![Screenshot](screenshot.png)  
+![Screenshot](Screenshot.png)  
 *Beispielhafte Darstellung der Aufgabenliste*
 
 ---
