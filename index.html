@@ -1,18 +1,34 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="app.css">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="app.css" />
+  <title>Aufgabenprofi</title>
+  
 </head>
 <body>
-    <h1>📝 Meine To-Do Liste</h1>
-  <div class="todo-container">
-    <input id="todo-input" type="text" placeholder="Neue Aufgabe eingeben..." />
-    <button id="add-button">Hinzufügen</button>
-    <ul id="todo-list"></ul>
+  <div class="container">
+    <header class="header">
+      <h1>Mein Aufgabenplaner</h1>
+      <p>Behalte deine täglichen Aufgaben mühelos im Blick.</p>
+    </header>
+
+    <form id="todo-form" class="todo-form">
+      <input type="text" id="todo-input" placeholder="Neue Aufgabe hinzufügen..." />
+      <button type="submit" id="add-btn">Hinzufügen</button>
+    </form>
+    <ul id="todo-list" class="todo-list">
+    </ul>
+
+    <div class="footer">
+      <p>Du hast noch <span id="task-count">0</span> Aufgaben übrig</p>
+      <button id="clear-btn">Alle Aufgaben löschen</button>
+    </div>
   </div>
+
   <script src="app.js"></script>
 </body>
 </html>
