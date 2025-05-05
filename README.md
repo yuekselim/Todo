@@ -49,12 +49,3 @@ Hier kannst du die Anwendung direkt ausprobieren:
 ## 👨‍💻 Über das Projekt
 
 Dieses Projekt wurde im Rahmen meines Lernprozesses entwickelt, um DOM-Manipulation, Event-Handling und lokale Speicherung in JavaScript zu üben.  
-Teile der Struktur und Lösungsansätze wurden mithilfe moderner Tools wie **ChatGPT** entwickelt, geprüft und verbessert.
-
----
-
-## 📜 Lizenz
-
-Dieses Projekt steht unter keiner speziellen Lizenz. Frei zur privaten Nutzung oder Weiterentwicklung.
-
----
